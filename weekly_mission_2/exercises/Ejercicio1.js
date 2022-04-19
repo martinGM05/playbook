@@ -79,10 +79,11 @@ const Twitter = {
 
 const Facebook = {
     user: {
-        user: "Martin Gonzalez",
-        username: "martinGonzalez",
+        name: "Martin Gonzalez",
+        email: "mtn.gm05@gmail.com",
         bio: "Software Engineer",
         age: 21,
+        gender: 'male'
     },
     post: {
         title: "ReactJs",
@@ -131,7 +132,13 @@ const uber = {
     travel: {
         rides: {
             total: 100,
-            
+
         }
     }
+}
+
+export {
+    Facebook,
+    uber,
+    Twitter
 }

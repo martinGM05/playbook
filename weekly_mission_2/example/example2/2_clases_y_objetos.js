@@ -180,7 +180,7 @@ class Explorer{
   }
 
   getNameAndUsername(){
-   return `Explorer ${this. name}, username: ${this.username}`
+   return `Explorer ${this.name}, username: ${this.username}`
   }
 }
 
