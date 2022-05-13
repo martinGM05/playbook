@@ -5,5 +5,5 @@ Proyectos desarrollados en la semana 5:
 | ------------- |:-------------:| -----:|
 |`Bot telegram`|1|[Link al repo](https://github.com/martinGM05/Fizzbuzz)|
 |`Prisma DB`|3|[Link al repo](https://github.com/martinGM05/PrismaDB)|
-|`Trello`|6|[Link al repo](https://github.com/martinGM05/Trello)|
-|`Cliente Servidor`|7|[Link al repo](https://github.com/martinGM05/client-launchx)|
+|`Trello`|4|[Link al repo](https://github.com/martinGM05/Trello)|
+|`Cliente Servidor`|5|[Link al repo](https://github.com/martinGM05/client-launchx)|
